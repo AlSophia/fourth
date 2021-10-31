@@ -10,4 +10,4 @@ def find_missing_nums(nums):
 
 print(find_missing_nums([2,3,1,1,3,6]))
 print(find_missing_nums([2,1,1,1,1,6]))
-print(find_missing_nums([2,1,1,1,1,1,4]))
+print(find_missing_nums([2,1,1,1,7,1,4]))
